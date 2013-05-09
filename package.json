@@ -1,0 +1,21 @@
+{
+  "name": "my-grunt",
+  "description": "My Grunt template.",
+  "version": "0.0.1",
+  "type": "git",
+  "license": "MIT",
+  "author": "konitter",
+  "main": "Gruntfile.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/konitter/my-grunt.git"
+  },
+  "engines": {
+    "node": "~0.10.1"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
